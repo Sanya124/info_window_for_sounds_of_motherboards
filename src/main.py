@@ -1,4 +1,4 @@
-"""  """
+""" Functions for displaying information about the audio signal of motherboard """
 from typing import Union
 
 from data.manufacturers import manufactures
