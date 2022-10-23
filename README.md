@@ -10,7 +10,9 @@ on the sound signals of the motherboard in the context of manufacturers
 
 For all questions, you can contact: <br>
 Telegram `@meazes`
+
 ---
+
 **RUS** 
 ## Информационное окно для отображения звуков материнских плат
 служит для получения информации о проблеме в компьютере на основе
